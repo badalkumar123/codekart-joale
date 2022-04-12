@@ -1,0 +1,185 @@
+.pagetwo{
+    
+    
+    width: 1349px;
+    height: 508px;
+}
+
+.abtu{
+   
+    
+    
+    width: 119px;
+    height: 23px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    letter-spacing: 0.05em;
+    
+    color: #000000;
+    
+    mix-blend-mode: normal;
+}
+.ourstry{
+    
+    width: 122px;
+    height: 23px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    letter-spacing: 0.05em;
+    
+    color: #000000;
+    
+    mix-blend-mode: normal;
+}
+.ourvis{
+    
+width: 132px;
+height: 23px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+letter-spacing: 0.05em;
+
+color: #000000;
+
+}
+.mnbar{
+    margin-left: 150px;
+    margin-top: 70px;
+}
+.headtit{
+   
+width: 441px;
+height: 71.92px;
+left: 0px;
+top: 0px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 35px;
+letter-spacing: 0.05em;
+margin-left: 450px;
+    margin-top: 726px;
+    position: absolute;
+
+
+color: #000000;
+}
+
+.newline{
+    position: absolute;
+width: 64px;
+height: 0px;
+left: 220px;
+top: 20.75px;
+margin-left: 450px;
+    margin-top: 726px;
+
+border: 2px solid #000000;
+}
+.paraone{
+position: absolute;
+width: 226px;
+height: 156.17px;
+left: 0px;
+top: 117.13px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+letter-spacing: 0.05em;
+margin-left: 450px;
+    margin-top: 726px;
+
+color: #000000;
+}
+.paratwo{
+    position: absolute;
+width: 226px;
+height: 156.17px;
+left: 257px;
+top: 117.13px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+letter-spacing: 0.05em;
+margin-left: 450px;
+    margin-top: 726px;
+
+color: #000000;
+
+}
+.parathree{
+    position: absolute;
+width: 226px;
+height: 156.17px;
+left: 514px;
+top: 117.13px;
+margin-left: 450px;
+    margin-top: 726px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+letter-spacing: 0.05em;
+
+color: #000000;
+}
+
+.lnmore{
+    position: absolute;
+width: 144px;
+height: 40px;
+
+background: #eaebeb;
+border-radius: 5px rgb(255, 1, 1);
+margin-left: 450px;
+   margin-top: 190px;
+}
+.awpo{
+    position: absolute;
+width: 283px;
+height: 35px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 35px;
+letter-spacing: 0.05em;
+margin-left: 150px;
+   margin-top: 250px;
+
+
+color: #000000;
+
+}
+.pinkline{
+    position: absolute;
+width: 64px;
+height: 0px;
+margin-left: 150px;
+   margin-top: 290px;
+
+border: 2px solid #F42C74;
+}

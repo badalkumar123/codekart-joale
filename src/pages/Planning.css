@@ -1,0 +1,173 @@
+.toolpagecontainer{
+    width: 1349px;
+height: 408px;
+
+background: #FFFFFF;
+}
+.plann{
+position: absolute;
+width: 158px;
+height: 29px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 29px;
+letter-spacing: 0.05em;
+
+color: #000000;
+margin-top: 130px;
+margin-left: 150px;
+
+}
+.designtwo{
+    position: absolute;
+width: 141px;
+height: 29px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 29px;
+letter-spacing: 0.05em;
+
+color: #000000;
+margin-top: 130px;
+margin-left: 430px;
+
+}
+.devlopm{
+    position: absolute;
+width: 219px;
+height: 29px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 29px;
+letter-spacing: 0.05em;
+margin-top: 130px;
+margin-left: 690px;
+
+color: #000000;
+}
+.promo{
+    position: absolute;
+width: 186px;
+height: 29px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 29px;
+letter-spacing: 0.05em;
+margin-top: 130px;
+margin-left: 1030px;
+color: #000000;
+
+}
+.plparaone{
+    position: absolute;
+width: 222px;
+height: 128px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 18px;
+letter-spacing: 0.05em;
+
+color: #000000;
+margin-top: 175px;
+margin-left: 150px;
+}
+
+.plparatwo{
+    position: absolute;
+width: 222px;
+height: 128px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 18px;
+letter-spacing: 0.05em;
+margin-top: 175px;
+margin-left: 430px;
+
+color: #000000;
+
+}
+.plparathree{
+    position: absolute;
+width: 222px;
+height: 128px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 18px;
+letter-spacing: 0.05em;
+margin-top: 175px;
+margin-left: 690px;
+
+color: #000000;
+
+
+}
+.plparafour{
+    margin-top: 175px;
+    margin-left: 1030px;
+    position: absolute;
+width: 222px;
+height: 128px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 18px;
+letter-spacing: 0.05em;
+
+color: #000000;
+
+
+}
+.planicon{
+    position: absolute;
+    margin-left: 150px;
+    margin-top: 50px;
+    size: 50px;
+    color: rgb(228, 85, 133);
+    
+    
+
+}
+.designicon{
+    position: absolute;
+    margin-left: 430px;
+    margin-top: 50px;
+    size: 50px;
+    color: rgb(228, 85, 133);
+}
+.deveicon{
+    margin-left: 690px;
+    position: absolute;
+    margin-top: 50px;
+    color: rgb(228, 85, 133);
+
+}
+.promoicon{
+    position: absolute;
+    margin-top: 50px;
+    color: rgb(228, 85, 133);
+    margin-left: 1030px;
+
+}

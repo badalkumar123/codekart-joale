@@ -1,0 +1,31 @@
+.top{
+    background-color: #c3e1e6;
+    
+    
+    
+}
+.joala{
+    margin-left: 100px;
+    font-weight: bold;
+    
+}
+
+.me-auto{
+    margin-left: 20px;
+}
+.ele{
+    margin-left: 20px;
+    color: blue;
+
+    
+}
+.ele:hover{
+    color: rgb(238, 96, 120);
+    text-decoration:underline;
+    font-weight: bold;
+    background-color: rgb(238, 96, 120);
+    
+}
+.cart{
+    margin-left: 300px;
+}

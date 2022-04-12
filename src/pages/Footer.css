@@ -1,0 +1,642 @@
+.contain{
+
+    position: absolute;
+width: 1349px;
+height: 429px;
+display: flex;
+
+
+background: #423333;
+}
+.abt{
+    position: absolute;
+width: 114px;
+height: 146px;
+left: 221px;
+top: 24px;
+
+
+}
+.about{
+    position: absolute;
+width: 50px;
+height: 19.6px;
+left: 221px;
+top: 24px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 17px;
+line-height: 20px;
+/* identical to box height */
+
+letter-spacing: 0.05em;
+
+color: #FFFFFF;
+
+}
+.line1{
+    position: absolute;
+width: 31px;
+height: 0px;
+left: 221px;
+top: 50.46px;
+
+background: #C4C4C4;
+border: 1px solid #F42C74;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.abtus{
+    position: absolute;
+    width: 57px;
+    height: 14.7px;
+    left: 221px;
+    top: 57.32px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 15px;
+    letter-spacing: 0.05em;
+    
+    color: #FFFFFF;
+    
+}
+.services{
+    position: absolute;
+width: 53px;
+height: 14.7px;
+left: 221px;
+top: 76.91px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 15px;
+letter-spacing: 0.05em;
+
+color: #FFFFFF;
+}
+.term{
+    position: absolute;
+width: 114px;
+height: 14.7px;
+left: 221px;
+top: 96.51px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 15px;
+letter-spacing: 0.05em;
+
+color: #FFFFFF;
+}
+.privacy{
+    position: absolute;
+width: 88px;
+height: 14.7px;
+left: 221px;
+top: 116.11px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 15px;
+letter-spacing: 0.05em;
+
+color: #FFFFFF;
+
+}
+.works{
+    position: absolute;
+width: 40px;
+height: 14.7px;
+left: 221px;
+top: 135.7px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 15px;
+letter-spacing: 0.05em;
+
+color: #FFFFFF;
+
+}
+.contact{
+    position: absolute;
+width: 70px;
+height: 14.7px;
+left: 221px;
+top: 155.3px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 15px;
+letter-spacing: 0.05em;
+
+color: #FFFFFF;
+
+}
+.company{
+    position: absolute;
+width: 78px;
+height: 19.6px;
+left: 479px;
+top: 24px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 17px;
+line-height: 20px;
+/* identical to box height */
+
+letter-spacing: 0.05em;
+
+color: #FFFFFF;
+
+}
+.line2{
+    position: absolute;
+width: 31px;
+height: 0px;
+left: 479px;
+top: 50.46px;
+
+background: #C4C4C4;
+border: 1px solid #F42C74;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.carrier{
+    position: absolute;
+width: 43px;
+height: 14.7px;
+left: 479px;
+top: 57.32px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 15px;
+letter-spacing: 0.05em;
+
+color: #FFFFFF;
+
+}
+.cookies{
+    position: absolute;
+width: 51px;
+height: 14.7px;
+left: 479px;
+top: 76.91px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 15px;
+letter-spacing: 0.05em;
+
+color: #FFFFFF;
+
+}
+.help{
+    position: absolute;
+width: 29px;
+height: 14.7px;
+left: 479px;
+top: 96.51px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 15px;
+letter-spacing: 0.05em;
+
+color: #FFFFFF;
+
+}
+.ourteam{
+    position: absolute;
+width: 68px;
+height: 14.7px;
+left: 479px;
+top: 116.11px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 15px;
+letter-spacing: 0.05em;
+
+color: #FFFFFF;
+
+}
+.awards{
+    position: absolute;
+width: 47px;
+height: 14.7px;
+left: 479px;
+top: 135.7px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 15px;
+letter-spacing: 0.05em;
+
+color: #FFFFFF;
+
+}
+.leader{
+    position: absolute;
+width: 70px;
+height: 14.7px;
+left: 479px;
+top: 155.3px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 15px;
+letter-spacing: 0.05em;
+
+color: #FFFFFF;
+
+}
+.servic{
+ 
+    position: absolute;
+width: 72px;
+height: 19.6px;
+left: 701px;
+top: 24px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 17px;
+line-height: 20px;
+/* identical to box height */
+
+letter-spacing: 0.05em;
+
+color: #FFFFFF;
+
+
+}
+.line3{
+    position: absolute;
+    width: 31px;
+    height: 0px;
+    left: 701px;
+    top: 50.46px;
+    
+    background: #C4C4C4;
+    border: 1px solid #F42C74;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.design{
+    position: absolute;
+width: 44px;
+height: 15px;
+left: 701px;
+top: 57.32px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 15px;
+letter-spacing: 0.05em;
+
+color: #FFFFFF;
+}
+.stralegy{
+    position: absolute;
+width: 52px;
+height: 14.7px;
+left: 701px;
+top: 76.91px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 15px;
+letter-spacing: 0.05em;
+
+color: #FFFFFF;
+
+}
+
+.bonding{
+    position: absolute;
+width: 52px;
+height: 14.7px;
+left: 701px;
+top: 116.11px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 15px;
+letter-spacing: 0.05em;
+
+color: #FFFFFF;
+}
+.reactclass{
+    position: absolute;
+width: 70px;
+height: 14.7px;
+left: 701px;
+top: 135.7px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 15px;
+letter-spacing: 0.05em;
+
+color: #FFFFFF;
+}
+.digital{
+    position: absolute;
+width: 41px;
+height: 14.7px;
+left: 701px;
+top: 155.3px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 15px;
+letter-spacing: 0.05em;
+
+color: #FFFFFF;
+
+}
+.conten{
+    position: absolute;
+width: 50px;
+height: 14.7px;
+left: 701px;
+top: 96.51px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 15px;
+letter-spacing: 0.05em;
+
+color: #FFFFFF;
+
+}
+.insta{
+    position: absolute;
+width: 85px;
+height: 19.6px;
+left: 917px;
+top: 24px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 17px;
+line-height: 20px;
+/* identical to box height */
+
+letter-spacing: 0.05em;
+
+color: #FFFFFF;
+
+}
+.line4{
+    position: absolute;
+width: 31px;
+height: 0px;
+left: 917px;
+top: 50.46px;
+
+background: #C4C4C4;
+border: 1px solid #F42C74;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.footerimg1{
+    position: absolute;
+width: 57px;
+height: 57px;
+left: 917px;
+top: 60px;
+}
+.footerimg2{
+    position: absolute;
+width: 57px;
+height: 57px;
+left: 979px;
+top: 60px;
+
+}
+
+.footerimg3{
+    position: absolute;
+width: 57px;
+height: 57px;
+left: 1041px;
+top: 60px;
+}
+
+.footerimg4{
+    position: absolute;
+width: 57px;
+height: 57px;
+left: 917px;
+top: 121px;
+}
+.footerimg5{
+    position: absolute;
+width: 57px;
+height: 57px;
+left: 979px;
+top: 121px;
+}
+.footerimg6{
+    position: absolute;
+width: 57px;
+height: 57px;
+left: 1041px;
+top: 121px;
+}
+.line5{
+    position: absolute;
+width: 936px;
+height: 0px;
+left: 221px;
+top: 201.02px;
+
+border: 1px solid #8B8989;
+transform: rotate(-0.12deg);
+}
+.joa{
+    position: absolute;
+width: 86px;
+height: 32.66px;
+left: 221px;
+top: 214px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 38px;
+letter-spacing: 0.05em;
+
+color: #FFFFFF;
+
+}
+.dot01{
+    position: absolute;
+width: 7px;
+height: 6.02px;
+left: 309px;
+top: 236.35px;
+
+background: #F42C74;
+}
+.para01{
+    position: absolute;
+width: 434px;
+height: 51.57px;
+left: 221px;
+top: 251.82px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 20px;
+letter-spacing: 0.05em;
+
+color: #FFFFFF;
+
+}
+.footercont{
+    position: absolute;
+width: 65px;
+height: 17.19px;
+left: 701px;
+top: 224.31px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 17px;
+line-height: 20px;
+letter-spacing: 0.05em;
+
+color: #FFFFFF;
+}
+
+.line6{
+    position: absolute;
+width: 31px;
+height: 0px;
+left: 701px;
+top: 247.52px;
+
+background: #C4C4C4;
+border: 1px solid #F42C74;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.addressdetil{
+    position: absolute;
+width: 238px;
+height: 85.95px;
+left: 701px;
+top: 256.97px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 20px;
+letter-spacing: 0.05em;
+
+color: #FFFFFF;
+
+}
+.fbinco{
+    position: absolute;
+width: 38.18px;
+height: 30px;
+left: 221px;
+top: 318.85px;
+color: #FFFFFF;
+
+}
+.twiticon{
+    position: absolute;
+width: 38.18px;
+height: 30px;
+left: 271px;
+top: 318.85px;
+color: #FFFFFF;
+
+}
+.googleicon{
+    position: absolute;
+width: 38.18px;
+height: 30px;
+left: 321px;
+top: 318.85px;
+color: #FFFFFF;
+}
+.rectbox{
+    position: absolute;
+width: 1349px;
+height: 52px;
+left: 0px;
+top: 378px;
+
+background: #2D2A2A;
+}
+.boxcoint{
+    position: absolute;
+width: 301px;
+height: 20px;
+left: 538px;
+top: 394px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 20px;
+/* identical to box height */
+
+letter-spacing: 0.05em;
+
+color: #FFFFFF;
+}

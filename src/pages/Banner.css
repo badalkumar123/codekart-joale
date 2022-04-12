@@ -1,0 +1,12 @@
+.coverpic{
+    height: 350px;
+    width: 1349px;
+}
+.covertext{
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 225px;
+    color: azure;
+    font-weight: bolder;
+    font-size: larger;
+}
