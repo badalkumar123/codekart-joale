@@ -1,7 +1,7 @@
 import React from "react";
 import { Card, CardGroup } from "react-bootstrap";
 import "./Face.css";
-import face from "../img/face.jpg";
+import face from "../img/look.jpg";
 
 
 export default function Face() {

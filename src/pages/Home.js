@@ -1,4 +1,5 @@
 import React from "react";
+import Award from "./Award";
 import Banner from "./Banner";
 import Contentpage from "./Contentpage";
 import Core from "./Core";
@@ -19,6 +20,8 @@ export default function home() {
       <Core/>
       <Banner/>
       <Planning/>
+      <Face/>
+      <Award/>
      
       <Footer/>
      

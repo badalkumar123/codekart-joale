@@ -1,0 +1,228 @@
+.awardcontainer {
+  width: 1349px;
+  height: 550px;
+
+  background: #ffffff;
+}
+.ouraward {
+  position: absolute;
+  width: 396px;
+  height: 37px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 35px;
+  letter-spacing: 0.05em;
+  margin-left: 150px;
+  margin-top: 60px;
+}
+.awardline {
+  position: absolute;
+  width: 64px;
+  height: 0px;
+
+  border: 2px solid #f42c74;
+  margin-left: 150px;
+  margin-top: 105px;
+}
+.awardpara {
+  position: absolute;
+  width: 629px;
+  height: 57px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  letter-spacing: 0.05em;
+
+  color: #000000;
+  margin-left: 150px;
+  margin-top: 120px;
+}
+.aw1logo {
+  position: absolute;
+  color: #f42c74;
+
+  margin-left: 200px;
+  margin-top: 220px;
+}
+.jeale {
+  position: absolute;
+  width: 155px;
+  height: 21px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 21px;
+  margin-left: 150px;
+  margin-top: 280px;
+}
+
+.aw2logo {
+  position: absolute;
+  color: #f42c74;
+
+  margin-left: 400px;
+  margin-top: 220px;
+}
+
+.ldadward {
+  position: absolute;
+  width: 155px;
+  height: 21px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 21px;
+  margin-left: 360px;
+  margin-top: 280px;
+}
+.aw3logo {
+  position: absolute;
+  color: #f42c74;
+
+  margin-left: 600px;
+  margin-top: 220px;
+}
+.mzaward {
+  position: absolute;
+  width: 155px;
+  height: 21px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 21px;
+  margin-left: 560px;
+  margin-top: 280px;
+}
+
+.aw4logo {
+  position: absolute;
+  color: #f42c74;
+
+  margin-left: 800px;
+  margin-top: 220px;
+}
+.tlaward {
+  position: absolute;
+  width: 155px;
+  height: 21px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 21px;
+  margin-left: 760px;
+  margin-top: 280px;
+}
+.aw5logo {
+  position: absolute;
+  color: #f42c74;
+
+  margin-left: 1000px;
+  margin-top: 220px;
+}
+.zgb {
+  position: absolute;
+  width: 155px;
+  height: 21px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 21px;
+  margin-left: 960px;
+  margin-top: 280px;
+}
+
+.aw6logo{
+    position: absolute;
+    color: #f42c74;
+  
+    margin-left: 200px;
+    margin-top: 380px;
+
+}
+.uni{
+    position: absolute;
+  width: 155px;
+  height: 21px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 21px;
+  margin-left: 150px;
+  margin-top: 440px;
+
+}
+
+.aw7logo{
+    position: absolute;
+  color: #f42c74;
+
+  margin-left: 400px;
+  margin-top: 380px;
+
+}
+
+.hn{
+    position: absolute;
+  width: 155px;
+  height: 21px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 21px;
+  margin-left: 360px;
+  margin-top: 440px;
+
+}
+.aw8logo{
+    position: absolute;
+  color: #f42c74;
+
+  margin-left: 600px;
+  margin-top: 382px;
+
+}
+
+.diamond{
+    position: absolute;
+  width: 155px;
+  height: 21px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 21px;
+  margin-left: 560px;
+  margin-top: 440px;
+
+}
+.alllogo{
+    position: absolute;
+    display: flex;
+    margin-left: 85px;
+}
+.tophead{
+    position: absolute;
+    display: flex;
+    margin-left: 85px;
+}
