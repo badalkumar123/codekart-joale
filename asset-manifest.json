@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/codekart-joale/static/css/main.9af503d7.css",
+    "main.js": "/codekart-joale/static/js/main.23cd70bc.js",
+    "static/js/787.972b996c.chunk.js": "/codekart-joale/static/js/787.972b996c.chunk.js",
+    "static/media/cardpic1.jpg": "/codekart-joale/static/media/cardpic1.a7fc38a117855c7afc39.jpg",
+    "static/media/cardpic2.jpg": "/codekart-joale/static/media/cardpic2.28f20f8080c6e8ca9f35.jpg",
+    "static/media/brand2.png": "/codekart-joale/static/media/brand2.7213745c5ab0721bc390.png",
+    "static/media/brand4.png": "/codekart-joale/static/media/brand4.0dc0b99986a8b3d1dd84.png",
+    "static/media/brand3.png": "/codekart-joale/static/media/brand3.3c02d5dee5db41b2272c.png",
+    "static/media/coveimg.jpg": "/codekart-joale/static/media/coveimg.f40c0e2b0288a7111ea3.jpg",
+    "static/media/brand5.png": "/codekart-joale/static/media/brand5.4db941db15fe7cde7414.png",
+    "static/media/cardpic3.jpg": "/codekart-joale/static/media/cardpic3.bcc7cb4c1f362678d8d9.jpg",
+    "static/media/look.jpg": "/codekart-joale/static/media/look.04c015302883eed1d2e5.jpg",
+    "static/media/brand7.png": "/codekart-joale/static/media/brand7.3a5ea8ee68f2264f0c04.png",
+    "static/media/brand6.png": "/codekart-joale/static/media/brand6.986070b7bee9123a3dd9.png",
+    "static/media/cardpic01.jpg": "/codekart-joale/static/media/cardpic01.11510c053fb4bf19f29e.jpg",
+    "static/media/cardpic03.jpg": "/codekart-joale/static/media/cardpic03.11510c053fb4bf19f29e.jpg",
+    "static/media/solidcolor (7).png": "/codekart-joale/static/media/solidcolor (7).2e3083fef37e01ab9bfd.png",
+    "static/media/cardpic02.jpg": "/codekart-joale/static/media/cardpic02.fc88ba773631afb55ec8.jpg",
+    "index.html": "/codekart-joale/index.html",
+    "main.9af503d7.css.map": "/codekart-joale/static/css/main.9af503d7.css.map",
+    "main.23cd70bc.js.map": "/codekart-joale/static/js/main.23cd70bc.js.map",
+    "787.972b996c.chunk.js.map": "/codekart-joale/static/js/787.972b996c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9af503d7.css",
+    "static/js/main.23cd70bc.js"
+  ]
+}
