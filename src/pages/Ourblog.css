@@ -1,0 +1,56 @@
+.blogcontainer {
+  width: 1349px;
+  height: 550px;
+
+  background: #ffffff;
+}
+.oubl{
+    position: absolute;
+  width: 396px;
+  height: 37px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 35px;
+  letter-spacing: 0.05em;
+  margin-left: 150px;
+  margin-top: 60px;
+}
+.blogline{
+    position: absolute;
+  width: 64px;
+  height: 0px;
+
+  border: 2px solid #f42c74;
+  margin-left: 150px;
+  margin-top: 105px;
+}
+.blogpara{
+    position: absolute;
+  width: 629px;
+  height: 57px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  letter-spacing: 0.05em;
+
+  color: #000000;
+  margin-left: 150px;
+  margin-top: 120px;
+
+}
+.bloghead{
+    position: absolute;
+    display: flex;
+    margin-left: 85px;
+}
+.blogcard{
+    margin-top: 180px;
+    width: 950px;
+    margin-left: 150px;
+}
